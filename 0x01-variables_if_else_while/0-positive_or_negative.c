@@ -18,15 +18,10 @@
 
 /**
  *
- *  * main - function
- *
- *   * no description
- *
- *    * Return: 0
- *
- *    */
-
-
+ * main - function
+ * no description
+ * Return: 0
+ */
 
 int main(void)
 
