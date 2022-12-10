@@ -11,59 +11,31 @@
  *     */
 
 int main(void)
-	
 {
+	int x, y;
 
-int x, y;
-
-
-
-for (x = 48; x <= 57; x++)
-
-{
-
-for (y = 48; y <= 57; y++)
-
-{
-
-if (x == y || y <= x)
-
-{
-
+	for (x = 48; x <= 57; x++)
+	{
+		for (y = 48; y <= 57; y++)
+		{
+			if (x == y || y <= x)
+			{
+			}
+			else
+			{
+				putchar(x);
+				putchar(y);
+				if (x == 56 && y == 57)
+				{
+				}
+				else
+				{
+					putchar(44);
+					putchar(' ');
+				}
+			}
+		}
+	}
+	putchar('\n');
+	return (0);
 }
-
-else
-
-{
-
-putchar(x);
-
-putchar(y);
-
-if (x == 56 && y == 57)
-
-{
-
-}
-
-else
-
-{
-
-putchar(44);
-
-putchar(' ');
-
-}
-
-}
-
-}
-
-}
-
-putchar('\n');
-
-return (0);
-
-}}
