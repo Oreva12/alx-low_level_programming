@@ -17,8 +17,7 @@
 
 
 /**
- *
- * main - function
+ * main - function of a variable
  * no description
  * Return: 0
  */
