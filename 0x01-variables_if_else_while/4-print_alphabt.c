@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 /**
- * main - main function
+ * main - main function of a variable
  * description: prints alphabet in lowercase
  * Return: 0
  */

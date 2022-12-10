@@ -6,7 +6,7 @@
 
 /**
  *
- * main - main function
+ * main - main function of a variable
  *
  * Return: Always 0
  *

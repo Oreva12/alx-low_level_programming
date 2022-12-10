@@ -2,8 +2,7 @@
 
 /**
  *
- * main - main function
- *
+ * main - main function of a variable
  * Description:printing alphabets in lowercase
  *
  * Return: Return
