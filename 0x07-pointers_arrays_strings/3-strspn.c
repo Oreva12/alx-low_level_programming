@@ -1,5 +1,5 @@
 #include "main.h"
-/**8
+/**
  * _strspn - gets lengthof a prefix substring
  * @s: string to check
  * @accept: string to check against
