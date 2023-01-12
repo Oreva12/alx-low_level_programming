@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * _print_rev_recursion - Entry point
  * @s: input
@@ -12,4 +11,4 @@ void _print_rev_recursion(char *s)
 	else
 		return;
 	_putchar(*s);
-}	
+}
